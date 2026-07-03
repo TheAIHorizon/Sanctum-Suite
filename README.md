@@ -16,6 +16,8 @@ This is the umbrella/index repo. Each tool lives in its own repository under
 | **Consilium** | Multi-LLM council — query several models at once, compare, and evaluate side by side. | [TheAIHorizon/Consilium](https://github.com/TheAIHorizon/Consilium) |
 | **SanctumKanban** | Self-hosted team kanban board. *(Private repo)* | TheAIHorizon/SanctumKanban |
 | **ProcessPulse** | Educator writing-assessment tool — analyzes student thinking, not just output. *(Private repo)* | TheAIHorizon/ProcessPulse |
+| **Sanctum Analyst (ACH)** | Local-first Analysis of Competing Hypotheses — evidence extraction, source rating, competing-hypothesis matrix, ranked analysis. *(Private repo)* | TheAIHorizon/ACH |
+| **Sanctum Hub** | One launcher to see, start, and open every suite app from a single page. | [TheAIHorizon/Sanctum-Hub](https://github.com/TheAIHorizon/Sanctum-Hub) |
 
 ## The Sanctum Engine
 
