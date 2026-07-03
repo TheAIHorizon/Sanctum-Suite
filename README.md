@@ -32,5 +32,8 @@ optional, clearly-separated cloud module that you enable with your own API keys.
 
 ## License
 
-Not yet finalized across the suite — see each repository for its current terms. **TBD; do not assume
-a permissive license until a LICENSE file says so.**
+**Polyform Noncommercial License 1.0.0** ([LICENSE](LICENSE)) — the standard license across the
+Sanctum suite. Free for personal, educational, research, and other noncommercial use; commercial use
+requires a separate license from the copyright holder. This is a **source-available** license, not
+an OSI "open source" license: you can read and audit the code, but reuse is limited to noncommercial
+purposes. Each app repository carries the same license.
